@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Stock Market RL",
+    "image": "https://imgur.com/dpzW6hb.png",
+    "description": "A platform for web developers to showcase their projects",
+    "tags": ["python", "machine learning", "AI", "RL"],
+    "source_code": "https://github.com/Thodoris-Evangelakos/Stock-market-Reinforcement-Learning",
+    "demo": "https://github.com/Thodoris-Evangelakos/Stock-market-Reinforcement-Learning"
+  }
+]
